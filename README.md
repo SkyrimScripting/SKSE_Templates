@@ -4,6 +4,8 @@
 
 _Follow links to templates below. Each one is in a separate "[Template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)" GitHub repository._
 
+> All templates use [CommonLibSSE NG](https://github.com/CharmedBaryon/CommonLibSSE-NG) and should work on Skyrim SE, AE, GOG, and VR
+
 ## "Hello, world!"
 
 This [Hello, world!](https://github.com/SkyrimScripting/SKSE_Template_HelloWorld) template is as simple as templates get!
