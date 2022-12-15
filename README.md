@@ -2,6 +2,8 @@
 
 > Templates of SKSE projects for Skyrim
 
+_Follow links to templates below. Each one is in a separate "[Template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)" GitHub repository._
+
 ## "Hello, world!"
 
 This [Hello, world!](https://github.com/SkyrimScripting/SKSE_Template_HelloWorld) template is as simple as templates get!
@@ -23,5 +25,5 @@ They use lots of code comments describing the feature that they demonstrate.
 | [Using Log Files](https://github.com/SkyrimScripting/SKSE_Template_Logging) | Configure an SKSE `.log` file and write to it! |
 | [System Events](https://github.com/SkyrimScripting/SKSE_Template_SystemEvents) | Detect important SKSE events, _e.g. save game, new game, etc_ |
 | [Game Events](https://github.com/SkyrimScripting/SKSE_Template_GameEvents) | Detect game events, _e.g. when objects are activated or menus opened/closed_ |
-
+|||
 
