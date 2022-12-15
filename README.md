@@ -14,7 +14,7 @@ Use this to confirm your C++ compiler is working and you can compile and run bas
 
 ## Skyrim Scripting YouTube series templates
 
-The following templated are features in the YouTube series* teaching SKSE development.
+The following templates are features in the YouTube series* teaching SKSE development.
 
 > `*` _currently being recorded, planned release before Christmas 2022_
 
