@@ -22,6 +22,8 @@ To simplify authoring the C++ to get up-and-running with a basic SKSE plugin, ou
 
 Checkout the [Starter Kit](https://github.com/SkyrimScripting/SKSE_Template_StarterKit) to get started on your SKSE mod authoring journey (_with just a little bit of help from us!_)
 
+~ **Happy Modding** ~
+
 ## Skyrim Scripting YouTube series templates
 
 The following templates are featured in the YouTube series* teaching SKSE development.
