@@ -12,6 +12,16 @@ This [Hello, world!](https://github.com/SkyrimScripting/SKSE_Template_HelloWorld
 
 Use this to confirm your C++ compiler is working and you can compile and run basic SKSE plugins.
 
+## Starter Kit
+
+The [Starter Kit](https://github.com/SkyrimScripting/SKSE_Template_StarterKit) template uses Skyrim Scripting helper libraries to make getting started on your SKSE mod authoring journey a bit easier!
+
+To simplify building SKSE plugins and copying them to your Skyrim mods folder, [Skyrim Scripting's CMake helper library](https://github.com/SkyrimScripting/CMake) is used.
+
+To simplify authoring the C++ to get up-and-running with a basic SKSE plugin, [Skyrim Scripting's Plugin helper library](https://github.com/SkyrimScripting/Plugin) is used.
+
+Checkout the [Starter Kit](https://github.com/SkyrimScripting/SKSE_Template_StarterKit) to get started on your SKSE mod authoring journey (_with just a little bit of help from us!_)
+
 ## Skyrim Scripting YouTube series templates
 
 The following templates are featured in the YouTube series* teaching SKSE development.
