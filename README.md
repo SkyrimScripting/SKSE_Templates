@@ -1,4 +1,4 @@
-# SKSE Templates
+# Skyrim SKSE plugin C++ templates
 
 > Templates of SKSE projects for Skyrim
 
