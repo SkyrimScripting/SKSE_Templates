@@ -53,7 +53,7 @@ They use lots of code comments describing the feature that they demonstrate.
 |||
 |-|-|
 | [MessageBox and Notification](https://github.com/SkyrimScripting/SKSE_Template_MessageBox_And_Notification) | Display a popup message in the game and a notification message. |
-| [Using Log Files](https://github.com/SkyrimScripting/SKSE_Template_Logging) | Configure an SKSE `.log` file and write to it! |
+| [Write to Log File](https://github.com/SkyrimScripting/SKSE_Template_Logging) | Configure an SKSE `.log` file and write to it! |
 | [SKSE Events](https://github.com/SkyrimScripting/SKSE_Template_SKSE_Events) | Detect important SKSE events, _e.g. save game, new game, etc_ |
 | [Forms](https://github.com/SkyrimScripting/SKSE_Template_Forms) | Lookup and loop thru game forms, _e.g. find all soups in the game_ |
 | [Game Events](https://github.com/SkyrimScripting/SKSE_Template_GameEvents) | Detect game events, _e.g. when objects are activated or menus opened/closed_ |
