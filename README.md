@@ -40,6 +40,8 @@ Checkout the [Starter Kit](https://github.com/SkyrimScripting/SKSE_Template_Star
 
 ~ **Happy Modding** ~
 
+> _Note: the Starter Kit is still very much a work-in-progress!_
+
 ## Skyrim Scripting YouTube series templates
 
 The following templates will be featured in the YouTube series* teaching SKSE development.
